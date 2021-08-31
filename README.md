@@ -1,6 +1,6 @@
 # Practice using git and GitHub
 
-##Now what if we could just *skip* all of this?
+## Now what if we could just *skip* all of this?
 
 ## Summary of Steps to Complete (See corresponding sections below.)
 - [ ] 1. Create a GitHub repository, link it to your computer, push your local changes to your GitHub repository.
